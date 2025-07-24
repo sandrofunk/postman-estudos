@@ -13,4 +13,3 @@ Cada pasta possui os arquivos de estudo, coleções exportadas e scripts de auto
 
 ---
 **Autor:** Sandro Gonçales Funk  
-**Instagram:** @projetotempocomdeus
